@@ -1,7 +1,7 @@
 # Ruby核心对象关系结构
 
 ![image of ruby_core_object_model]
-(https://github.com/hzlu/ruby_core_object_model/images/object_model.png)
+(https://github.com/hzlu/ruby_core_object_model/blob/master/images/object_model.png)
 
 ## 作用
 
