@@ -9,7 +9,17 @@
 
 ## 使用
 
-`tree BasicObject`
+### 本地使用tree
+
+```bash
+git clone https://github.com/hzlu/ruby_core_object_model.git
+cd ruby_core_object_model
+tree BasicObject
+```
+
+### 推荐使用[Octotree](https://github.com/buunguyen/octotree)
+
+直接安装chrome插件[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN)
 
 说明：`@`开头普通文件为`include`的**模块**，普通目录为**类**
 
